@@ -1,27 +1,33 @@
 # vue3-ts-cms
 
-## Project setup
+## 拉去项目
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 检查代码
 
 ```
 npm run lint
+```
+
+### 提交代码
+
+```
+npm run commit
 ```
 
 ### Customize configuration
